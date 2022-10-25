@@ -5,4 +5,4 @@ The result of my second week with TOP.
 
 The use of divs is questionable.
 
-[https://github.com/Leo-Gorriarena/landing-page](https://github.com/Leo-Gorriarena/landing-page)
+[https://leo-gorriarena.github.io/landing-page/](https://leo-gorriarena.github.io/landing-page/)
